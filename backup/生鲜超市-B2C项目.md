@@ -31,9 +31,9 @@ Nginx+uwsgi
 
 
 ####  数据库表
-![DB](https://github.com/CMXX648/krise-zhu.github.io/raw/main/static/FreshStore/DBtables.png)
+![DB](https://github.com/CMXX648/KriseZhu.github.io/raw/main/static/FreshStore/DBtables.png)
 * SPU是商品信息聚合的最小单位，是一组可复用、易检索的标准化信息的集合，该集合描述了一个产品的特性。通俗点讲，属性值、特性相同的商品就可以称为一个SPU。     
-例如，iphone4就是一个SPU，N97也是一个SPU，这个与商家无关，与颜色、款式、套餐也无关。
+例如，iphone6就是一个SPU，N97也是一个SPU，这个与商家无关，与颜色、款式、套餐也无关。
 * SKU即库存进出计量的单位， 可以是以件、盒、托盘等为单位，在服装、鞋类商品中使用最多最普遍。   
 例如纺织品中一个SKU通常表示：规格、颜色、款式。        
     
