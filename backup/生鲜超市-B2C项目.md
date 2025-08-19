@@ -14,11 +14,11 @@
 #### 技术架构
 * 开发架构    
 采用BS结构, 即Browser/Server(浏览器/服务器)结构,构建一个web的网站商城系统, 其架构逻辑:   
-![frame](https://github.com/CMXX648/krise-zhu.github.io/raw/main/statics/FreshStore/framework.png)
+![frame](https://github.com/CMXX648/krise-zhu.github.io/raw/main/static/FreshStore/framework.png)
 
 * 部署架构     
 Nginx+uwsgi     
-![deploy](https://github.com/CMXX648/krise-zhu.github.io/raw/main/statics/FreshStore/DBtables.png)
+![deploy](https://github.com/CMXX648/krise-zhu.github.io/raw/main/static/FreshStore/DBtables.png)
 
 
 ####  主体模块  
@@ -27,11 +27,11 @@ Nginx+uwsgi
 * 商品相关模块、    
 * 购物车相关模块、   
 * 订单相关模块、    
-[查看各模块详情分析](https://github.com/CMXX648/krise-zhu.github.io/raw/main/statics/FreshStore/Analysis.md)
+[查看各模块详情分析](https://github.com/CMXX648/krise-zhu.github.io/raw/main/static/FreshStore/Analysis.md)
 
 
 ####  数据库表
-![DB](https://github.com/CMXX648/krise-zhu.github.io/raw/main/imgs/FreshStore/DBtables.png)
+![DB](https://github.com/CMXX648/krise-zhu.github.io/raw/main/static/FreshStore/DBtables.png)
 * SPU是商品信息聚合的最小单位，是一组可复用、易检索的标准化信息的集合，该集合描述了一个产品的特性。通俗点讲，属性值、特性相同的商品就可以称为一个SPU。     
 例如，iphone4就是一个SPU，N97也是一个SPU，这个与商家无关，与颜色、款式、套餐也无关。
 * SKU即库存进出计量的单位， 可以是以件、盒、托盘等为单位，在服装、鞋类商品中使用最多最普遍。   
@@ -39,7 +39,7 @@ Nginx+uwsgi
     
     
 #### 功能模块展示
-[点击查看](https://github.com/CMXX648/krise-zhu.github.io/raw/main/statics/FreshStore/show.md)
+[点击查看](https://github.com/CMXX648/krise-zhu.github.io/raw/main/static/FreshStore/show.md)
     
    
 #### 功能与性能优化
