@@ -14,11 +14,11 @@
 #### 技术架构
 * 开发架构    
 采用BS结构, 即Browser/Server(浏览器/服务器)结构,构建一个web的网站商城系统, 其架构逻辑:   
-![frame](https://github.com/CMXX648/krise-zhu.github.io/blob/main/static/FreshStore/framework.png)
+![frame](https://github.com/CMXX648/KriseZhu.github.io/blob/main/static/FreshStore/framework.png)
 
 * 部署架构     
 Nginx+uwsgi     
-![deploy](https://github.com/CMXX648/krise-zhu.github.io/blob/main/static/FreshStore/DBtables.png)
+![deploy](https://github.com/CMXX648/KriseZhu.github.io/blob/main/static/FreshStore/DBtables.png)
 
 
 ####  主体模块  
@@ -27,7 +27,7 @@ Nginx+uwsgi
 * 商品相关模块、    
 * 购物车相关模块、   
 * 订单相关模块、    
-[查看各模块详情分析](https://github.com/CMXX648/krise-zhu.github.io/blob/main/static/FreshStore/Analysis.md)
+[查看各模块详情分析](https://github.com/CMXX648/KriseZhu.github.io/blob/main/static/FreshStore/Analysis.md)
 
 
 ####  数据库表
@@ -39,7 +39,7 @@ Nginx+uwsgi
     
     
 #### 功能模块展示
-[点击查看](https://github.com/CMXX648/krise-zhu.github.io/blob/main/static/FreshStore/show.md)
+[点击查看](https://github.com/CMXX648/KriseZhu.github.io/blob/main/static/FreshStore/show.md)
     
    
 #### 功能与性能优化
