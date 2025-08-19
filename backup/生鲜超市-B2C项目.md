@@ -18,7 +18,7 @@
 
 * 部署架构     
 Nginx+uwsgi     
-![deploy](https://github.com/CMXX648/KriseZhu.github.io/blob/raw/static/FreshStore/DBtables.png)
+![deploy](https://github.com/CMXX648/KriseZhu.github.io/raw/main/static/FreshStore/DBtables.png)
 
 
 ####  主体模块  
